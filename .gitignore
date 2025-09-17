@@ -1,0 +1,6 @@
+*.pyc
+*.csv
+*logs
+
+*.mat
+*.png
